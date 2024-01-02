@@ -41,7 +41,7 @@ For students, it's imperative to use your time in college wisely, engaging in me
 
 We will dive deeper into this later in the wiki, but generally: 
 
-1. Include relevant and technical details to showcase your qualifications and distinguish yourself from other candidates. We will mention the [STAR format later in the wiki](https://www.reddit.com/r/EngineeringResumes/wiki/index/#wiki_each_bullet_point_should_follow_star_or_xyz).  
+1. Include relevant and technical details to showcase your qualifications and distinguish yourself from other candidates. We will mention the [STAR/CAR/XYZ bullet point methods later in the wiki](https://www.reddit.com/r/EngineeringResumes/wiki/index/#wiki_each_bullet_point_should_follow_star_or_xyz).  
 2. Provide context and incorporate relevant keywords. This helps the hiring team understand and relate to your work and technical achievements.  
 3. Avoid adding unnecessary information that doesn’t add to your candidacy.  
 4. Bring your critical and pertinent details to the top and the left of the resume. This increases the odds of these details being read by the hiring team.  
@@ -74,9 +74,9 @@ Your resume should be:
 - Easily _parsable_ by an Application Tracking System (ATS)
     - [Application Tracking Systems and ATS Myths Busted](https://thetechresume.com/samples/ats-myths-busted)  
 
-### [Recommended Templates](https://www.reddit.com/r/EngineeringResumes/wiki/resumetemplates/)
+### [Recommended Templates](https://www.reddit.com/r/EngineeringResumes/wiki/resumetemplates)
 
-https://www.reddit.com/r/EngineeringResumes/wiki/resumetemplates/
+<https://www.reddit.com/r/EngineeringResumes/wiki/resumetemplates>
 
 - [Google Docs](https://www.reddit.com/r/EngineeringResumes/wiki/resumetemplates/#wiki_google_docs) <https://imgur.com/xOufvdz>
 
@@ -270,8 +270,7 @@ Not only are management & leadership very different in the real world, but no de
 
 ## Bullet Points
 
-### Objectives
-
+### Objectives  
 1. Highlight the technical work you did  
 2. Highlight technical challenges you faced and overcame  
 3. Highlight the impact of your work  
@@ -311,17 +310,24 @@ Not only are management & leadership very different in the real world, but no de
 
 ---
 
-### Each bullet point should follow STAR or XYZ
+### Each bullet point should follow STAR, XYZ, or CAR  
 
-- STAR method: **S**ituation, **T**ask, **A**ction, and **R**esults
+**STAR:** **S**ituation, **T**ask, **A**ction, and **R**esults  
 
-  - <https://www.levels.fyi/blog/applying-star-method-resumes.html>
-  - <https://resumegenius.com/blog/resume-help/star-method-resume>
+- <https://www.levels.fyi/blog/applying-star-method-resumes.html>
+- <https://resumegenius.com/blog/resume-help/star-method-resume>
 
-- XYZ method: Accomplished **[X]** as measured by **[Y]**, by doing **[Z]**
+**XYZ:** Accomplished **[X]** as measured by **[Y]**, by doing **[Z]**  
 
-  - <https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html>
-  - <https://elevenrecruiting.com/create-an-effective-resume-xyz-resume-format/>
+- <https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html>
+- <https://elevenrecruiting.com/create-an-effective-resume-xyz-resume-format/>
+
+**CAR:** **C**hallenge **A**ction **R**esult  
+
+- <https://ca.indeed.com/career-advice/resumes-cover-letters/challenge-action-result-resume>
+- <https://www.topresume.com/career-advice/how-to-get-more-results-with-a-car-resume>
+
+---
 
 - If you're able to quantify your achievements/results, move metrics towards the start of each bullet  
 - [Sample Bullet Points](https://www.reddit.com/r/EngineeringResumes/w/sample-bullet-points/)  
@@ -350,7 +356,7 @@ Not only are management & leadership very different in the real world, but no de
 
 ---
 
-### Got Writer's Block from Looking at STAR and XYZ?
+### Got Writer's Block from Looking at STAR/CAR/XYZ?
 
 Here’s a fun exercise I learned from my last supervisor. At the start of every project, you and/or a task lead likely sat down and established the goals you had to meet, right? Ideally, these goals were set up in such a way that you could meet them and solid enough that you had to exert effort to make them happen.
 
