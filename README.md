@@ -70,8 +70,8 @@ If you decide to go with a second page, you should be in the position to at leas
 
 Your resume should be:
 
-* Easily _skimmable_ by recruiters, hiring managers, and interviewers
-* Easily _parsable_ by an [Application Tracking System (ATS)](https://thetechresume.com/samples/ats-myths-busted)
+1. Easily _skimmable_ by recruiters, hiring managers, and interviewers
+2. Easily _parsable_ by an [Application Tracking System (ATS)](https://thetechresume.com/samples/ats-myths-busted)
   * [Application Tracking Systems and ATS Myths Busted](https://thetechresume.com/samples/ats-myths-busted)
 
 ### [Recommended Templates](https://www.reddit.com/r/EngineeringResumes/wiki/resumetemplates)
@@ -93,6 +93,10 @@ Your resume should be:
 * Italicization and bolding are only to be used if used _sparingly_. Excessive italicization and bolding decrease readability and ultimately contradict their purpose: **emphasis**.
 * _Italicization_, ALL-CAPS, and **bolding**, if used, should be used independently of each other.
 * Don't indent sections and bullet points. There's already indentation since the bullets themselves create an indent.
+* Separate your sections clearly for optimal readability and visual clarity
+  * Ensure there is sufficient and consistent white space between sections/subsections
+  * Ensure there is sufficient and consistent white space between each job/project
+  * Ensure there are sufficient vertical and horizontal margins (minimum 0.5 inches) <https://imgur.com/xOufvdz>
 
 ---
 
@@ -113,12 +117,7 @@ Your resume should be:
 
 ---
 
-## Sections
-
-* Do **not** include a summary/profile unless you're a senior/staff engineer or above, making a career change, or addressing an unemployment gap/returning to the workforce
-* Do **not** include a references section
-
-### Section Order
+## Section Order
 
 In general,
 
@@ -133,16 +132,12 @@ In general,
 * If you don't have any work experience at all:
   * _Education > Projects > Volunteer Experience/Extracurriculars > Skills_
 
-### Formatting
-
-* Separate your sections clearly for optimal readability and visual clarity
-* Ensure there is sufficient and consistent white space between sections/subsections
-* Ensure there is sufficient and consistent white space between each job/project
-* Ensure there are sufficient vertical and horizontal margins (minimum 0.5 inches) <https://imgur.com/xOufvdz>
+* Do **not** include a summary/profile unless you're a senior/staff engineer or above, making a career change, or addressing an unemployment gap/returning to the workforce
+* Do **not** include a references section
 
 ---
 
-### Contact Information
+## Contact Information
 
 * **If you have a security clearance, it can be listed in the contact information section at the top of your resume near your name.**
   * Example: "Top Secret / SCI eligible with CI Polygraph"
@@ -170,144 +165,9 @@ In general,
 * Don't include https://www. for your URLs
 * Don't underline, italicize, or color your email address/GitHub URL/portfolio URL/personal website URLs
 
-### Portfolios
-
-Include links to GitHub profiles and portfolio websites only if they are up-to-date. If your pinned repositories lack READMEs or if your portfolio hasn't been updated in a significant time frame, it's advisable to save space and omit them from your resume. Contrary to common belief, these links are not obligatory, especially when their contents do not contribute meaningful value to your application.
-
-* Only publish projects with good READMEs on GitHub. Aim for each README to have a good summary, screenshots, details on how to run, and **how to test**.
-  * Include tests for your project that can be run. Have automated tests such as unit tests or end-to-end tests.
-  * Take inspiration from projects with awesome READMEs <https://github.com/matiassingers/awesome-readme>
-* [The Portfolio Handbook](https://evaeducation.weebly.com/uploads/1/9/6/9/19692577/portfoliohandbook.pdf) is an excellent guide to creating portfolios. Note that this guide was written for industrial design students
-* Don't include full URLs for links
-  * ~~<https://www>.~~ github.com/bob
-  * ~~<https://www>.~~ portfolio.com
-
 ---
 
-### Education
-
-* Do **not** include coursework unless the courses are **extremely specialized** or **really cool** like Underwater Autonomous Robotics
-* Don't include your high school
-* Don't include schools from which you did not receive a degree
-* Don't include your start dates, only your graduation date. Don't include a date range
-  * If currently a student: **Expected May 2025**
-  * If graduated: **May 2021** or simply **2021**
-* This section should be in reverse chronological order. i.e. your master's degree goes above your bachelor's degree
-* GPA
-  * Generally, if your GPA is above 3.75, put it on your resume
-  * 2 decimal places is sufficient, 3 is overkill
-  * Once you start your first full-time job and your education section is moved to the bottom of your resume, remove your GPA unless it's very impressive
-* On your resume, it's **Bachelor ~~'s~~ of Science** and **Master ~~'s~~ of Science**
-* Don't include your school location if your school has the location in its name i.e. MIT or UCLA or if its location is commonly known
-* Don't include awards/scholarships unless they're extremely impressive, i.e. Rhodes Scholar, Fulbright Scholar
-* Include D1/competitive sports
-
----
-
-### Skills (shoutout to u/0ffkilter)
-
-#### Objective  
-
-The purpose of the skills section is to highlight in a few words what technical skills you can bring to the job.  Ideally, these match the job description.  They can also include other technical skills that are related, but perhaps not necessarily in the job description.  If you are applying to a job that's in Java, saying you also know C++ can be useful.  This is not a section to spew every buzzword on every technology you've ever touched.  Find a balance between enough skills (to show you can [wear many hats](https://www.merriam-webster.com/dictionary/wear%20many%20hats)) while not showing too many so that the reader makes it seem like none of them are important.  
-
-This section should simply be named **Skills**, not ~~"Technical Skills", "Relevant Skills”, etc~~
-
-
-##### You Should:
-
-* Include languages you've used thoroughly and could theoretically interview in.  
-
-* Include technologies (frameworks, tools, and programs) that you've used previously.
-
-* Repeat things that you use in your bullet points.  If you have Java in your skills, your bullet points in job descriptions should include Java, and vice versa.  
-
-##### You Should Not:
-
-* Include soft skills  - don't include things like "teamwork", "leadership", and the like.  Demonstrate via your bullet points and descriptions that you've done these things, not just by listing them out.  
-
-* Include skills that are taken for granted and are assumed (typing, Microsoft Word, IDEs, etc - some of these are fine for other types of jobs, but are generally not useful for engineering)
-
-   * Generally speaking, do not include -
-
-      * Code Repository Websites (the skill itself is fine - use "Git" or "SVN", not "Github" or "Bitbucket"
- 
-      * Operating Systems
-
-      * IDEs or other word editors
-
-#### Formatting:
-
-Your formatting should be easy to read, easy to digest, and convey what's important and what's simply "there".  Each skill should listed should feel important, and not like fluff.  
-
-##### You Should:
-
-* Use 3 lines or less, in a single column format.  
-
-* Order your skills from most important to least important. 
-
-  * Consider whether the ones at the end should even be there
-
-* Separate your skills into relevant categories such as **Software, Mechanical Design, Simulation and Analysis, Manufacturing, Lab Equipment, Languages, Technologies, or Design Tools**
-
-* Use proper formatting - 
-
-  * Separate using properly punctuated commas, and not hyphens, dashes, pipes, or anything else.
-
-  * Capitalize each of the skills properly, and if it has a proper name be sure to use that.  
-
-      * Solid**W**orks, C**ATIA V**5, LabV**IEW**, [etc..]()
-
-  * Separate similar skills if they are functionally different - 
-     * Use "C, C++" not "C/C++".  Each skill should be separate, if necessary.  
-
-
-##### You Should Not:
-
-* Bold random words or use unnecessary formatting.  The _only_ necessary formatting is if the name of the skill is expressly formatted in a way.
-
-* Use any descriptor when describing your skills.  Do not say "Expert in _ " or "Professional in _".  List the _skill_ only, and use your bullet points to demonstrate your professional abilities.  
-
-* Use multiple columns.  One line, one column per group.  Listing skills vertically takes up too much space.  The highlight of your resume is in the words, and your skill bullet points are only here to get the point across and to be a reference of sorts.  
-
-
-#### Should I: 
-
-##### Should I include technical skills from other jobs?
-
-* Technical skills that demonstrate some ability that can be useful.  For example, including LaTeX in a resume written in LaTex can show that you've done technical writing before, which for some positions can be a very important skill.  
-
-
-##### Should I include other non technical skills from other jobs?
-
-* Generally speaking, no.  If the skill is multiple words or is more of a descriptor than a hard and set "thing" you should not be putting it here.  "Team Leading" should not be in the skills section, it should be demonstrated via your bullet points.  
-
-##### Should I include random hobbies and other things?
-
-* No.  You may hear about the stories where the interviewer and interviewee share a hobby or passion project on the side unrelated to the job.  That may work every now and then, and it is _acceptable_ (sometimes) to put these on your resume, but the skills section is not the correct area.  You should include that in a subsection, and only if there is nothing better to put on your resume.  
-
-##### Should I include skills that I'm not super comfortable with, if I'm new to the industry?
-
-* This is a judgement call.  An inexperienced engineer that lists a few skills they've really honed in on can often look better than a new engineer with 10+ skills they've clearly never used in industry.  Find a balance, and try to differentiate what you've used and are experienced with in, and what you've just "touched".  
-
----
-
-### Projects
-
-This section should be named **Projects**, not ~~Academic/Engineering/Notable/Personal/Relevant/Selected/Technical Projects~~
-
-* This section is for personal projects, student design teams, and extracurricular/hobbyist projects, **not** projects from work
-* Don't use the word "project" in your project titles, it's redundant
-* [Capitalize your project titles correctly](https://capitalizemytitle.com/) <https://capitalizemytitle.com/>
-* For personal projects, roles/positions/locations/dates are generally unnecessary. What's more important is including a link to a portfolio page and/or GitHub repo
-* There's no need to disclose "Personal Project", "Academic Project", or "Group Project" beside your project title
-* Each project should consist of bullet points, ~~not paragraphs~~
-* Order projects and bullet points based on relevance to the specific job and general impressiveness. Put your best stuff first and grab the reader's attention!
-
-If you want your projects to stand out, they should be real projects, not mandatory school projects or trivial tutorial projects found online. Something that someone uses to solve a problem. Something that has users (can be just you, as long as you use it often) and is actively maintained and isn't just rotting in a GitHub repo, never to see a PR for the rest of its life. You can always join student clubs like SAE/AIAA competitive teams, and rocketry teams, or even be a mentor for an FRC/FTC team.
-
----
-
-### Work Experience
+## Work Experience
 
 This section should be named _Work Experience_ or simply _Experience_ not ~~"Professional Experience", "Selected Experience", "Employment History", "Employment" or "Job History"~~
 
@@ -327,16 +187,16 @@ Not only are management & leadership very different in the real world, but no de
 
 ---
 
-## Bullet Points
+### Bullet Points
 
-### Objectives  
+#### Objectives  
 1. Highlight the technical work you did
 2. Highlight technical challenges you faced and overcame
 3. Highlight the impact of your work
 
 ---
 
-### General Rules
+#### General Rules
 
 * Bullet points should be 1-2 lines long. Use [Quillbot](https://quillbot.com/) and [LanguageTool](https://languagetool.org/paraphrasing-tool) to help you [paraphrase and shorten your bullets](https://www.youtube.com/watch?v=VvPaEsuz-tY)
 * Aim for **1** sentence per bullet
@@ -356,7 +216,7 @@ Not only are management & leadership very different in the real world, but no de
 
 ---
 
-### Action Verbs
+#### Action Verbs
 
 * Each bullet should begin with a **strong, past-tense action verb**<https://www.engineering.cornell.edu/sites/default/files/users/user240/Action%20Words%20for%20ENG%20(website).pdf>  
 * **Led** is the past tense of **lead**
@@ -369,7 +229,7 @@ Not only are management & leadership very different in the real world, but no de
 
 ---
 
-### Each bullet point should follow STAR, XYZ, or CAR
+#### Each bullet point should follow STAR, XYZ, or CAR
 
 **STAR:** **S**ituation, **T**ask, **A**ction, and **R**esults
 
@@ -393,7 +253,7 @@ Not only are management & leadership very different in the real world, but no de
 
 ---
 
-### Having trouble coming up with content for your bullet points? Ask yourself the following questions:
+#### Having trouble coming up with content for your bullet points? Ask yourself the following questions:
 
 **What did I do?** 
  
@@ -415,7 +275,7 @@ Not only are management & leadership very different in the real world, but no de
 
 ---
 
-### Got Writer's Block from Looking at STAR/CAR/XYZ?
+#### Got Writer's Block from Looking at STAR/CAR/XYZ?
 
 Here’s a fun exercise I learned from my last supervisor. At the start of every project, you and/or a task lead likely sat down and established the goals you had to meet, right? Ideally, these goals were set up in such a way that you could meet them and solid enough that you had to exert effort to make them happen.
 
@@ -429,7 +289,7 @@ When you're finally satisfied, start paring it down to meet space & content requ
 
 ---
 
-### Why Integration Matters
+#### Why Integration Matters
 
 Don't throw a parts list at the reader. It matters less what specific components and subcomponents you used and more how you integrated all this into whatever your project was aiming to accomplish.
 
@@ -439,7 +299,7 @@ How did your software interface with the stepper motors to complete task X to a 
 
 ---
 
-### Handling Sensitive Content (or u/graytotoro’s Suggestions on How to Not Get Fired And/Or Sued)
+#### Handling Sensitive Content (or u/graytotoro’s Suggestions on How to Not Get Fired And/Or Sued)
 
 You’ve finally decided to move on from that job working on the X-02S Strike Wyvern on behalf of the Erusean Air and Space Agency. In your time on this project, you supported integration efforts for subsystems enabling this airplane to do things the likes of which would make other nations cower in fear.
 
@@ -454,6 +314,144 @@ For a little less silly example, I once worked at a company that made carbon fib
 \*Not a lawyer (shh) so I can’t help you if you get into a Tom Clancy situation.
 
 \*\*I didn’t actually do this, it’s an example. Sure would be cool though.
+
+---
+
+## Education
+
+* Do **not** include coursework unless the courses are **extremely specialized** or **really cool** like Underwater Autonomous Robotics
+* Don't include your high school
+* Don't include schools from which you did not receive a degree
+* Don't include your start dates, only your graduation date. Don't include a date range
+  * If currently a student: **Expected May 2025**
+  * If graduated: **May 2021** or simply **2021**
+* This section should be in reverse chronological order. i.e. your master's degree goes above your bachelor's degree
+* GPA
+  * Generally, if your GPA is above 3.75, put it on your resume
+  * 2 decimal places is sufficient, 3 is overkill
+  * Once you start your first full-time job and your education section is moved to the bottom of your resume, remove your GPA unless it's very impressive
+* On your resume, it's **Bachelor ~~'s~~ of Science** and **Master ~~'s~~ of Science**
+* Don't include your school location if your school has the location in its name i.e. MIT or UCLA or if its location is commonly known
+* Don't include awards/scholarships unless they're extremely impressive, i.e. Rhodes Scholar, Fulbright Scholar
+* Include D1/competitive sports
+
+---
+
+## Skills 
+
+shoutout to u/0ffkilter
+
+### Objective  
+
+The purpose of the skills section is to highlight in a few words what technical skills you can bring to the job.  Ideally, these match the job description.  They can also include other technical skills that are related, but perhaps not necessarily in the job description.  If you are applying to a job that's in Java, saying you also know C++ can be useful.  This is not a section to spew every buzzword on every technology you've ever touched.  Find a balance between enough skills (to show you can [wear many hats](https://www.merriam-webster.com/dictionary/wear%20many%20hats)) while not showing too many so that the reader makes it seem like none of them are important.  
+
+This section should simply be named **Skills**, not ~~"Technical Skills", "Relevant Skills”, etc~~
+
+
+#### You Should:
+
+* Include languages you've used thoroughly and could theoretically interview in.  
+
+* Include technologies (frameworks, tools, and programs) that you've used previously.
+
+* Repeat things that you use in your bullet points.  If you have Java in your skills, your bullet points in job descriptions should include Java, and vice versa.  
+
+#### You Should Not:
+
+* Include soft skills  - don't include things like "teamwork", "leadership", and the like.  Demonstrate via your bullet points and descriptions that you've done these things, not just by listing them out.  
+
+* Include skills that are taken for granted and are assumed (typing, Microsoft Word, IDEs, etc - some of these are fine for other types of jobs, but are generally not useful for engineering)
+
+   * Generally speaking, do not include -
+
+      * Code Repository Websites (the skill itself is fine - use "Git" or "SVN", not "Github" or "Bitbucket"
+ 
+      * Operating Systems
+
+      * IDEs or other word editors
+
+### Formatting:
+
+Your formatting should be easy to read, easy to digest, and convey what's important and what's simply "there".  Each skill should listed should feel important, and not like fluff.  
+
+#### You Should:
+
+* Use 3 lines or less, in a single column format.  
+
+* Order your skills from most important to least important. 
+
+  * Consider whether the ones at the end should even be there
+
+* Separate your skills into relevant categories such as **Software, Mechanical Design, Simulation and Analysis, Manufacturing, Lab Equipment, Languages, Technologies, or Design Tools**
+
+* Use proper formatting - 
+
+  * Separate using properly punctuated commas, and not hyphens, dashes, pipes, or anything else.
+
+  * Capitalize each of the skills properly, and if it has a proper name be sure to use that.  
+
+      * Solid**W**orks, C**ATIA V**5, LabV**IEW**, [etc..]()
+
+  * Separate similar skills if they are functionally different - 
+     * Use "C, C++" not "C/C++".  Each skill should be separate, if necessary.  
+
+#### You Should Not:
+
+* Bold random words or use unnecessary formatting.  The _only_ necessary formatting is if the name of the skill is expressly formatted in a way.
+
+* Use any descriptor when describing your skills.  Do not say "Expert in _ " or "Professional in _".  List the _skill_ only, and use your bullet points to demonstrate your professional abilities.  
+
+* Use multiple columns.  One line, one column per group.  Listing skills vertically takes up too much space.  The highlight of your resume is in the words, and your skill bullet points are only here to get the point across and to be a reference of sorts.  
+
+
+### Should I: 
+
+#### Should I include technical skills from other jobs?
+
+* Technical skills that demonstrate some ability that can be useful.  For example, including LaTeX in a resume written in LaTex can show that you've done technical writing before, which for some positions can be a very important skill.  
+
+
+#### Should I include other non technical skills from other jobs?
+
+* Generally speaking, no.  If the skill is multiple words or is more of a descriptor than a hard and set "thing" you should not be putting it here.  "Team Leading" should not be in the skills section, it should be demonstrated via your bullet points.  
+
+#### Should I include random hobbies and other things?
+
+* No.  You may hear about the stories where the interviewer and interviewee share a hobby or passion project on the side unrelated to the job.  That may work every now and then, and it is _acceptable_ (sometimes) to put these on your resume, but the skills section is not the correct area.  You should include that in a subsection, and only if there is nothing better to put on your resume.  
+
+#### Should I include skills that I'm not super comfortable with, if I'm new to the industry?
+
+* This is a judgement call.  An inexperienced engineer that lists a few skills they've really honed in on can often look better than a new engineer with 10+ skills they've clearly never used in industry.  Find a balance, and try to differentiate what you've used and are experienced with in, and what you've just "touched".
+
+---
+
+## Projects
+
+This section should be named **Projects**, not ~~Academic/Engineering/Notable/Personal/Relevant/Selected/Technical Projects~~
+
+* This section is for personal projects, student design teams, and extracurricular/hobbyist projects, **not** projects from work
+* Don't use the word "project" in your project titles, it's redundant
+* [Capitalize your project titles correctly](https://capitalizemytitle.com/) <https://capitalizemytitle.com/>
+* For personal projects, roles/positions/locations/dates are generally unnecessary. What's more important is including a link to a portfolio page and/or GitHub repo
+* There's no need to disclose "Personal Project", "Academic Project", or "Group Project" beside your project title
+* Each project should consist of bullet points, ~~not paragraphs~~
+* Order projects and bullet points based on relevance to the specific job and general impressiveness. Put your best stuff first and grab the reader's attention!
+
+If you want your projects to stand out, they should be real projects, not mandatory school projects or trivial tutorial projects found online. Something that someone uses to solve a problem. Something that has users (can be just you, as long as you use it often) and is actively maintained and isn't just rotting in a GitHub repo, never to see a PR for the rest of its life. You can always join student clubs like SAE/AIAA competitive teams, and rocketry teams, or even be a mentor for an FRC/FTC team.
+
+---
+
+## Portfolios
+
+Include links to GitHub profiles and portfolio websites only if they are up-to-date. If your pinned repositories lack READMEs or if your portfolio hasn't been updated in a significant time frame, it's advisable to save space and omit them from your resume. Contrary to common belief, these links are not obligatory, especially when their contents do not contribute meaningful value to your application.
+
+* Only publish projects with good READMEs on GitHub. Aim for each README to have a good summary, screenshots, details on how to run, and **how to test**.
+  * Include tests for your project that can be run. Have automated tests such as unit tests or end-to-end tests.
+  * Take inspiration from projects with awesome READMEs <https://github.com/matiassingers/awesome-readme>
+* [The Portfolio Handbook](https://evaeducation.weebly.com/uploads/1/9/6/9/19692577/portfoliohandbook.pdf) is an excellent guide to creating portfolios. Note that this guide was written for industrial design students
+* Don't include full URLs for links
+  * ~~<https://www>.~~ github.com/bob
+  * ~~<https://www>.~~ portfolio.com
 
 ---
 
