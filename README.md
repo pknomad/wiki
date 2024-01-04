@@ -144,6 +144,8 @@ In general,
 
 ### Contact Information
 
+* **If you have a security clearance, it can be listed in the contact information section at the top of your resume near your name.**
+  * Example: "Top Secret / SCI eligible with CI Polygraph"
 * Don't include your physical address and ZIP code
 * Don't include your location (city, ST) unless the specific job you're applying for is in that specific city
   * Including a non-local location may cause implicit bias against you
@@ -242,6 +244,7 @@ This section should be named **Projects**, not ~~Academic/Engineering/Notable/Pe
 
 * This section is for personal projects, student design teams, and extracurricular/hobbyist projects, **not** projects from work
 * Don't use the word "project" in your project titles, it's redundant
+* [Capitalize your project titles correctly](https://capitalizemytitle.com/) <https://capitalizemytitle.com/>
 * For personal projects, roles/positions/locations/dates are generally unnecessary. What's more important is including a link to a portfolio page and/or GitHub repo
 * There's no need to disclose "Personal Project", "Academic Project", or "Group Project" beside your project title
 * Each project should consist of bullet points, ~~not paragraphs~~
@@ -282,8 +285,8 @@ Not only are management & leadership very different in the real world, but no de
 
 ### General Rules
 
-* Bullet points should be 1-2 lines long. Use [Quillbot](https://quillbot.com/) and [LanguageTool](https://languagetool.org/paraphrasing-tool) to help you paraphrase and shorten your bullets
-* **1** sentence per bullet
+* Bullet points should be 1-2 lines long. Use [Quillbot](https://quillbot.com/) and [LanguageTool](https://languagetool.org/paraphrasing-tool) to help you [paraphrase and shorten your bullets](https://www.youtube.com/watch?v=VvPaEsuz-tY)
+* Aim for **1** sentence per bullet
 * Bullet points should be ordered from most relevant/impressive to least, as some hiring managers only have time to read the first they should get [THE BEST](https://media.giphy.com/media/VdVL5miirhFANoyPBM/giphy.gif)!
 * Don't use [personal pronouns](https://www.grammarly.com/blog/personal-pronouns/) i.e. _I, we, us, my, our, their_
 * Don't end bullet points with periods. Bullet points != sentences
@@ -444,9 +447,9 @@ For a little less silly example, I once worked at a company that made carbon fib
 
 * [u/emnm47's How To Get A Job™ Speech](https://www.reddit.com/r/EngineeringResumes/w/how-to-get-a-job/)
 * [Annotated Resume Examples](https://www.reddit.com/r/EngineeringResumes/comments/p5y5at/) by /u/emnm47
-* Resume Critique Videos](https://www.reddit.com/r/EngineeringResumes/comments/j0ujid/) by /u/emnm47
+* [Resume Critique Videos](https://www.reddit.com/r/EngineeringResumes/comments/j0ujid/) by /u/emnm47
 * [The Ultimate Guide to Writing Your Resume for Software Engineer Roles](https://archive.ph/Xmdqt) by /u/EngineeredCoconut
-* [36 Resume Rules for Software Engineers](https://www.nicksingh.com/posts/36-resume-rules-for-software-engineers) by [Nick Singh](https://www.nicksingh.com/)
+* [36 Resume Rules for Software Engineers](https://www.nicksingh.com/posts/36-resume-rules-for-software-engineers) by u/NickSinghTechCareers
 * [How to Write an Effective Developer Resume: Advice From a Hiring Manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/) by [Gergely Orosz (The Pragmatic Engineer)](https://blog.pragmaticengineer.com/)
 * [The Tech Resume](https://thetechresume.com/table-of-contents) by [Gergely Orosz (The Pragmatic Engineer)](https://blog.pragmaticengineer.com/)
 * [Common Mistakes From Reviewing 1000+ Tech Resumes: Kleiner Perkins Fellows 2022](https://debarghyadas.com/writes/kpcb/) by [Debarghya Das](https://debarghyadas.com/)
