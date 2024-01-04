@@ -144,6 +144,8 @@ In general,
 
 ### Contact Information
 
+* **If you have a security clearance, it can be listed in the contact information section at the top of your resume near your name.**
+  * Example: "Top Secret / SCI eligible with CI Polygraph"
 * Don't include your physical address and ZIP code
 * Don't include your location (city, ST) unless the specific job you're applying for is in that specific city
   * Including a non-local location may cause implicit bias against you
@@ -202,37 +204,90 @@ Include links to GitHub profiles and portfolio websites only if they are up-to-d
 
 ---
 
-### Skills
+### Skills (shoutout to u/0ffkilter)
 
-This section should be named **Skills**, not ~~"Technical Skills", "Relevant Skills”, "Summary of Qualifications”, or “Qualifications”~~
+#### Objective  
 
-* This section should be **3 lines or less**
-* This section should be **single-column** and broken up into multiple lines (**not** bullet point form)
-* Group your skills into categories like **Software**, **Mechanical Design**, **Simulation and Analysis**, **Manufacturing**, **Lab Equipment**, **Languages**, **Technologies**, or **Design Tools**
-* Separate your skills with commas, ~~not semicolons, pipes (|), bullets, hyphens, or dashes~~
-* Order skills based on relevance to the specific job you’re applying to
-* Don't include soft skills. Nobody will ever claim they are a bad listener, can’t follow instructions, and struggle to work with others on a resume, so don’t waste your time writing something that will be ignored.
-* Don't include work/productivity apps: ~~Microsoft Office/Excel/PowerPoint/Word/Outlook), LaTeX, Overleaf, Google Workspace apps, Jira/Confluence/Slack/Asana/Notion/Trello~~
-* Don't include code repository websites: ~~GitHub/GitLab/Bitbucket~~
-* Don't include ~~Windows or macOS~~
-* Don't include IDEs/code editors/package managers: ~~Visual Studio, VS Code, Eclipse, Vim, Neovim, npm, Yarn, Android Studio, PyCharm, Xcode, Arduino IDE, CLion, IntelliJ, NetBeans, RStudio~~
-* Don't rate your skills by proficiency ~~proficient with~~ ~~experienced in~~
-  * **NEVER** say you’re an expert at something. Some people wrote those languages. They might work at the company you’re applying to.
-* Punctuate correctly:  
-  * Solid**W**orks, C**ATIA** **V**5, AutoC**AD**, M**ATLAB**, Auto**d**esk, ~~NI~~ LabV**IEW**, **L**ean **S**ix **S**igma
-  * Java**S**cript, Type**S**cript, Node.**js**.**NET**
-  * Tensor**F**low, Open**CV**, Num**P**y, Sci**P**y, Py**T**orch, **s**cikit-**l**earn, **M**atplotlib
-  * **G**it, B**ash**, **p**andas
-  * E**AGLE**, KiC**ad**, LT**s**pice, Free**RTOS**, R**OS**
-* **SystemVerilog**, not ~~System Verilog~~
-* **Power BI**, not ~~PowerBI~~
-* **C, C++**, not ~~C/C++~~
-* **JavaScript, TypeScript**, not ~~JavaScript/TypeScript~~
-* **HTML, CSS**, not ~~HTML/CSS~~
-* **R** is a programming language, **RStudio** is an IDE
-* **3D** Printing, not ~~3-D Printing or 3d Printing~~
-* React~~.js~~
-* Go~~lang~~
+The purpose of the skills section is to highlight in a few words what technical skills you can bring to the job.  Ideally, these match the job description.  They can also include other technical skills that are related, but perhaps not necessarily in the job description.  If you are applying to a job that's in Java, saying you also know C++ can be useful.  This is not a section to spew every buzzword on every technology you've ever touched.  Find a balance between enough skills (to show you can [wear many hats](https://www.merriam-webster.com/dictionary/wear%20many%20hats)) while not showing too many so that the reader makes it seem like none of them are important.  
+
+This section should simply be named **Skills**, not ~~"Technical Skills", "Relevant Skills”, etc~~
+
+
+##### You Should:
+
+* Include languages you've used thoroughly and could theoretically interview in.  
+
+* Include technologies (frameworks, tools, and programs) that you've used previously.
+
+* Repeat things that you use in your bullet points.  If you have Java in your skills, your bullet points in job descriptions should include Java, and vice versa.  
+
+##### You Should Not:
+
+* Include soft skills  - don't include things like "teamwork", "leadership", and the like.  Demonstrate via your bullet points and descriptions that you've done these things, not just by listing them out.  
+
+* Include skills that are taken for granted and are assumed (typing, Microsoft Word, IDEs, etc - some of these are fine for other types of jobs, but are generally not useful for engineering)
+
+   * Generally speaking, do not include -
+
+      * Code Repository Websites (the skill itself is fine - use "Git" or "SVN", not "Github" or "Bitbucket"
+ 
+      * Operating Systems
+
+      * IDEs or other word editors
+
+#### Formatting:
+
+Your formatting should be easy to read, easy to digest, and convey what's important and what's simply "there".  Each skill should listed should feel important, and not like fluff.  
+
+##### You Should:
+
+* Use 3 lines or less, in a single column format.  
+
+* Order your skills from most important to least important. 
+
+  * Consider whether the ones at the end should even be there
+
+* Separate your skills into relevant categories such as **Software, Mechanical Design, Simulation and Analysis, Manufacturing, Lab Equipment, Languages, Technologies, or Design Tools**
+
+* Use proper formatting - 
+
+  * Separate using properly punctuated commas, and not hyphens, dashes, pipes, or anything else.
+
+  * Capitalize each of the skills properly, and if it has a proper name be sure to use that.  
+
+      * Solid**W**orks, C**ATIA V**5, LabV**IEW**, [etc..]()
+
+  * Separate similar skills if they are functionally different - 
+     * Use "C, C++" not "C/C++".  Each skill should be separate, if necessary.  
+
+
+##### You Should Not:
+
+* Bold random words or use unnecessary formatting.  The _only_ necessary formatting is if the name of the skill is expressly formatted in a way.
+
+* Use any descriptor when describing your skills.  Do not say "Expert in _ " or "Professional in _".  List the _skill_ only, and use your bullet points to demonstrate your professional abilities.  
+
+* Use multiple columns.  One line, one column per group.  Listing skills vertically takes up too much space.  The highlight of your resume is in the words, and your skill bullet points are only here to get the point across and to be a reference of sorts.  
+
+
+#### Should I: 
+
+##### Should I include technical skills from other jobs?
+
+* Technical skills that demonstrate some ability that can be useful.  For example, including LaTeX in a resume written in LaTex can show that you've done technical writing before, which for some positions can be a very important skill.  
+
+
+##### Should I include other non technical skills from other jobs?
+
+* Generally speaking, no.  If the skill is multiple words or is more of a descriptor than a hard and set "thing" you should not be putting it here.  "Team Leading" should not be in the skills section, it should be demonstrated via your bullet points.  
+
+##### Should I include random hobbies and other things?
+
+* No.  You may hear about the stories where the interviewer and interviewee share a hobby or passion project on the side unrelated to the job.  That may work every now and then, and it is _acceptable_ (sometimes) to put these on your resume, but the skills section is not the correct area.  You should include that in a subsection, and only if there is nothing better to put on your resume.  
+
+##### Should I include skills that I'm not super comfortable with, if I'm new to the industry?
+
+* This is a judgement call.  An inexperienced engineer that lists a few skills they've really honed in on can often look better than a new engineer with 10+ skills they've clearly never used in industry.  Find a balance, and try to differentiate what you've used and are experienced with in, and what you've just "touched".  
 
 ---
 
@@ -242,6 +297,7 @@ This section should be named **Projects**, not ~~Academic/Engineering/Notable/Pe
 
 * This section is for personal projects, student design teams, and extracurricular/hobbyist projects, **not** projects from work
 * Don't use the word "project" in your project titles, it's redundant
+* [Capitalize your project titles correctly](https://capitalizemytitle.com/) <https://capitalizemytitle.com/>
 * For personal projects, roles/positions/locations/dates are generally unnecessary. What's more important is including a link to a portfolio page and/or GitHub repo
 * There's no need to disclose "Personal Project", "Academic Project", or "Group Project" beside your project title
 * Each project should consist of bullet points, ~~not paragraphs~~
@@ -282,8 +338,8 @@ Not only are management & leadership very different in the real world, but no de
 
 ### General Rules
 
-* Bullet points should be 1-2 lines long. Use [Quillbot](https://quillbot.com/) and [LanguageTool](https://languagetool.org/paraphrasing-tool) to help you paraphrase and shorten your bullets
-* **1** sentence per bullet
+* Bullet points should be 1-2 lines long. Use [Quillbot](https://quillbot.com/) and [LanguageTool](https://languagetool.org/paraphrasing-tool) to help you [paraphrase and shorten your bullets](https://www.youtube.com/watch?v=VvPaEsuz-tY)
+* Aim for **1** sentence per bullet
 * Bullet points should be ordered from most relevant/impressive to least, as some hiring managers only have time to read the first they should get [THE BEST](https://media.giphy.com/media/VdVL5miirhFANoyPBM/giphy.gif)!
 * Don't use [personal pronouns](https://www.grammarly.com/blog/personal-pronouns/) i.e. _I, we, us, my, our, their_
 * Don't end bullet points with periods. Bullet points != sentences
@@ -444,9 +500,9 @@ For a little less silly example, I once worked at a company that made carbon fib
 
 * [u/emnm47's How To Get A Job™ Speech](https://www.reddit.com/r/EngineeringResumes/w/how-to-get-a-job/)
 * [Annotated Resume Examples](https://www.reddit.com/r/EngineeringResumes/comments/p5y5at/) by /u/emnm47
-* Resume Critique Videos](https://www.reddit.com/r/EngineeringResumes/comments/j0ujid/) by /u/emnm47
+* [Resume Critique Videos](https://www.reddit.com/r/EngineeringResumes/comments/j0ujid/) by /u/emnm47
 * [The Ultimate Guide to Writing Your Resume for Software Engineer Roles](https://archive.ph/Xmdqt) by /u/EngineeredCoconut
-* [36 Resume Rules for Software Engineers](https://www.nicksingh.com/posts/36-resume-rules-for-software-engineers) by [Nick Singh](https://www.nicksingh.com/)
+* [36 Resume Rules for Software Engineers](https://www.nicksingh.com/posts/36-resume-rules-for-software-engineers) by u/NickSinghTechCareers
 * [How to Write an Effective Developer Resume: Advice From a Hiring Manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/) by [Gergely Orosz (The Pragmatic Engineer)](https://blog.pragmaticengineer.com/)
 * [The Tech Resume](https://thetechresume.com/table-of-contents) by [Gergely Orosz (The Pragmatic Engineer)](https://blog.pragmaticengineer.com/)
 * [Common Mistakes From Reviewing 1000+ Tech Resumes: Kleiner Perkins Fellows 2022](https://debarghyadas.com/writes/kpcb/) by [Debarghya Das](https://debarghyadas.com/)
