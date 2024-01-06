@@ -1,3 +1,5 @@
+#[PDF version](https://drive.google.com/file/d/19JbKjQr5NizAmKhwUAAb3ZaIE9vNV99V/view?usp=drive_link)
+
 Welcome to r/EngineeringResumes! 
 
 This subreddit is dedicated to helping engineering students and professionals create and improve their resumes. Please note that the guidelines provided in this wiki predominantly align with the standards of resumes in the **United States and Canada**.
@@ -222,9 +224,9 @@ Not only are management & leadership very different in the real world, but no de
 * **Led** is the past tense of **lead**
 * **Good examples:** analyzed, architected, automated, built, created, decreased, designed, developed, implemented, improved, optimized, published, reduced, refactored
 * **Bad examples:**
-  * aided, assisted, coded, collaborated, communicated, exposed to, gained experience, helped, participated, programmed, ran, used, utilized, worked on
+  * aided, assisted, coded, collaborated, communicated, executed, exposed to, gained experience, helped, participated, programmed, ran, used, utilized, worked on
   * [Don't use the verb **utilize**. 9/10 times that word will be attached to some disgusting Gordian knot of a sentence that says in 20 words what could be said in 10.](https://scientistseessquirrel.wordpress.com/2019/04/16/for-the-love-of-all-that-is-holy-stop-writing-utilize/)
-  * **superfluous/awkward/unnecessarily complex verbs:** amplified, conceptualized, crafted, elevated, employed, engaged, engineered, enhanced, ensured, fostered, headed, innovated, mastered, orchestrated, perfected, pioneered, revolutionized, spearheaded, transformed
+  * **superfluous/awkward/unnecessarily complex verbs:** amplified, conceptualized, crafted, elevated, employed, engaged, engineered, enhanced, ensured, fostered, headed, honed, innovated, mastered, orchestrated, perfected, pioneered, revolutionized, spearheaded, transformed
   * **frequently misused verbs:** [leverage](https://www.steverrobbins.com/articles/leverage/), [enhance](https://english.stackexchange.com/questions/105465/what-differences-are-there-between-to-enhance-and-to-improve), [utilize](https://scientistseessquirrel.wordpress.com/2019/04/23/limited-use-cases-for-utilize/)
 
 ---
@@ -390,10 +392,10 @@ Your formatting should be easy to read, easy to digest, and convey what's import
 
   * Capitalize each of the skills properly, and if it has a proper name be sure to use that.  
 
-      * Solid**W**orks, C**ATIA V**5, LabV**IEW**, [etc..]()
+      * Solid**W**orks, C**ATIA V**5, LabV**IEW**, [etc..](https://www.reddit.com/r/EngineeringResumes/wiki/typo)
 
   * Separate similar skills if they are functionally different - 
-     * Use "C, C++" not "C/C++".  Each skill should be separate, if necessary.  
+     * Use "C, C++" not "C/C++".  Each skill should be separate, if necessary.  [see more here](https://www.reddit.com/r/EngineeringResumes/wiki/typo)
 
 #### You Should Not:
 
