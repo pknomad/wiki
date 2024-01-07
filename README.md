@@ -30,7 +30,7 @@ For students, it's imperative to use your time in college wisely, engaging in me
 2. Avoid icons, images, and graphics.
 3. Don't indent your sections and bullet points. Using bullet points inherently creates indentation <https://imgur.com/qBJjbth>
 4. Use bullet points, not paragraphs.
-5. Use a modern, easy-to-read font like Calibri, Lato, or Charter.
+5. Use a modern sans serif font like Calibri, Lato, or Charter for digitally submitted resumes. Serif fonts such as Times New Roman, are recommended for printed resumes.
 6. Use a black (not thin) font with at least 11+ font size.
 7. Don't [justify your text](https://uit.stanford.edu/accessibility/concepts/typography#justifyText) since it creates inconsistent spacing between words <https://imgur.com/6eKsENw>
 8. Ensure you have enough white space (no cramming, and use sufficient margins (minimum 0.5") and line spacing (minimum 1.07)
@@ -482,6 +482,7 @@ Include links to GitHub profiles and portfolio websites only if they are up-to-d
 * Link to working projects and source code
 * Be concise in summarizing past work experience
 * Have a short resume. Try to fit on 1 page
+* Consider writing a cover letter explaining your reasons for career change and how your past non-engineering experiences may help you become an effective engineer.
 
 ---
 
